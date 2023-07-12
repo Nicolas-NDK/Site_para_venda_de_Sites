@@ -1,4 +1,4 @@
 # Site 100% funcinal, questionario chegando via email, botoes de pagamente, links etc
-Feito inteiramente em HTML e CSS com objetivo de aprendizado e para aperfeiçoamento de minhas habilidades utilizando o HTML e o CSS antes de ir para a parte de JavaScript no curso de FullStack Phyton na EBAC que estou fazendo. Algumas artes feitas utilizando o Photoshop.
+Desenvolvi este projeto utilizando exclusivamente HTML e CSS com o objetivo de aprimorar minhas habilidades nessas linguagens antes de me aprofundar no estudo de JavaScript no curso de FullStack Python que estou realizando na EBAC. Além disso, criei algumas ilustrações utilizando o Photoshop para adicionar um toque artístico ao site.
 
-Site está Hospedado na Versel para quem desejar visualizá-lo Link: https://site-para-venda-de-sites.vercel.app/?vercelToolbarCode=m52NbibYNn13Zxm
+O site está hospedado na plataforma Versel e pode ser visualizado através do seguinte link:https://site-para-venda-de-sites.vercel.app/?vercelToolbarCode=m52NbibYNn13Zxm . Fique à vontade para acessá-lo e conferir meu trabalho!
