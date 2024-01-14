@@ -521,6 +521,23 @@ li {
 }
 
 
+.imagem-container {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    padding-bottom: 100px;
+}
+
+/* Estilo para as imagens individuais */
+.imagem-container img {
+    width: 300px; /* Ajuste a largura conforme necessário */
+    height: auto;
+    margin-right: 40px; /* Espaçamento entre as imagens */
+    cursor: pointer; /* Cursor ao passar o mouse para indicar que é clicável */
+    box-shadow: 0 0 25px rgba(225, 0, 255, 0.8);
+}
+
+
 /* ############################################################################## */
 
 @media (max-width: 768px) {
