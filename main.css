@@ -1008,4 +1008,23 @@ li {
         padding: 20px;
     }
 
+    .imagem-container {
+        display: flex;
+        flex-direction: column; /* Mudança para layout de coluna */
+        align-items: center; /* Centralizar as imagens horizontalmente */
+        padding: 30px;
+        padding-bottom: 100px;
+        max-width: 600px;
+        margin: 20px auto;
+    }
+
+    /* Estilo para as imagens individuais */
+    .imagem-container img {
+        width: 300px; /* Ajuste a largura conforme necessário */
+        height: auto;
+        margin-bottom: 20px; /* Espaçamento entre as imagens */
+        cursor: pointer; /* Cursor ao passar o mouse para indicar que é clicável */
+        box-shadow: 0 0 25px rgba(225, 0, 255, 0.8);
+    }
+
 }
